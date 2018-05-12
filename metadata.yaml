@@ -1,0 +1,37 @@
+_repo: The-Visions-of-EnglandLyrics-on-leading-men-and-events-in-English-History_17923
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palgrave, Francis Turner
+    alias: Palgrave, Francis T.
+    birthdate: 1824
+    deathdate: 1897
+    gutenberg_agent_id: '555'
+    url: http://www.gutenberg.org/2009/agents/555
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Turner_Palgrave
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2006-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Poetry'
+title: 'The Visions of England
+
+  Lyrics on leading men and events in English History'
+url: http://www.gutenberg.org/ebooks/17923
